@@ -1,4 +1,4 @@
-# solidity-on-plasmnetwork-polkadot-
+# solidity on plasm network relay chain(polkadot)
 
 ### Resources
 - Plasm Network Documentation
