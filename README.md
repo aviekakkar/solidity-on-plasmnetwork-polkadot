@@ -1,7 +1,10 @@
 # solidity on plasm network relay chain(polkadot)
 
-## Contract Address - bChWTRNKvBGCYCXQSMauBrv43Fjc4vn3XeogXfuTjra3hAN
+## Contract Address 
+0x18d86db0846c2f0a53bd3858e4db2ea6ea9332551feabd14e03765687f542370
 
+## Instance Address
+bChWTRNKvBGCYCXQSMauBrv43Fjc4vn3XeogXfuTjra3hAN
 
 ### Resources
 - Plasm Network Documentation
