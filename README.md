@@ -1,5 +1,8 @@
 # solidity on plasm network relay chain(polkadot)
 
+## Contract Address - bChWTRNKvBGCYCXQSMauBrv43Fjc4vn3XeogXfuTjra3hAN
+
+
 ### Resources
 - Plasm Network Documentation
 - Plasm App
